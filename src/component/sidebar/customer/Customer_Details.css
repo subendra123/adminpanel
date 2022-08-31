@@ -1,0 +1,251 @@
+
+
+.customer_order_details_container {
+    margin-top: 2rem;
+}
+.customer_order_details_container p {
+    color: blue;
+
+}
+.customer_order_section_style {
+    background-color: white !important;
+}
+
+
+.New_customer_order_details_box {
+    margin-top: 3.7rem;
+    margin-left: 1rem;
+  
+  
+    
+}
+
+.new_order_delivered_container .new_deliverd_boxshadow {
+    margin-top: 5px;
+}
+.deliver_order_customer {
+    background-color:  rgb(244 245 250);
+}
+.new_deliverd_boxshadow {
+    display: flex;
+   
+}
+.deliverd_icon_box {
+    width: 70px;
+    height: 70px;
+    background-color:  rgb(244 245 250);
+    position: relative;
+    border-radius: 100%;
+}
+.deliverd_icon_box i {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 30px;
+  
+}
+.order_deliverd_customer_text {
+    margin-left: 20px;
+}
+.order_deliverd_customer_text h2 {
+    padding-top: 10px;
+  
+    font-weight: 600;
+}
+.order_deliverd_customer_text p {
+    margin-top: -15px;
+    font-size: 15px;
+    color: gray;
+}
+
+.progress_style_pending {
+    margin-left: 30px;
+    margin-top: 7px;
+}
+
+/* TRANSACTION HISTORY CUSTOMER  */
+.transaction_header_customer {
+    display: flex;
+    justify-content: space-between;
+}
+.transaction_text h4 {
+    font-size: 19px;
+    color: gray;
+}
+.sort_transaction span {
+    padding-right: 20px;
+    font-weight: bold;
+}
+.sort_transaction select {
+    width: 150px;
+    height: 30px;
+    color: grey;
+    font-size: 15px;
+    padding-left: 3px;
+    padding-right: 5px;
+    border-radius: 20px;
+}
+
+.transaction_contents_customer {
+    display: flex;
+   
+    margin-top: 2rem;
+}
+.transction_img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    
+}
+.transction_img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+.transaction_content_text {
+    margin-left: 20px;
+}
+.transaction_content_text p {
+    margin-top: 15px;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+.transaction_price {
+    margin-left: 4rem;
+    margin-top: 1rem;
+}
+.transaction_mode  {
+   margin-left: 20px;
+}
+.transaction_price, .transaction_status, .transaction_mode, .transaction_date span {
+    font-size: 16px;
+    font-weight: bold;
+}
+.transaction_status, .transaction_status_unpaid, .transaction_mode, .transaction_date {
+    margin-left: 4rem;
+    margin-top: 1rem;
+}
+.transaction_status span {
+display: inline-block;
+  padding: 0 25px;
+  height: 30px;
+  font-size: 16px;
+  line-height: 30px;
+  border-radius: 25px;
+  background-color: green !important;
+  letter-spacing: 2px;
+  color: white;
+}
+.transaction_status_unpaid span {
+    display: inline-block;
+ padding: 0 25px;
+  height: 30px;
+  font-size: 16px;
+  line-height: 30px;
+  border-radius: 25px;
+  background-color: crimson !important;
+  letter-spacing: 2px;
+  color: white;
+  margin-left: -15px;
+}
+
+.bothside {
+    display: flex;
+}
+.fabrote_store_container {
+    margin: 1rem 0;
+}
+
+
+
+.circle-wrap {
+   
+    width: 80px;
+    height: 80px;
+    background: #fefcff;
+    border-radius: 50%;
+    border: 1px solid #cdcbd0;
+  }
+  .circle-wrap .inside-circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: #d2eaf1;
+    line-height: 120px;
+    text-align: center;
+   
+   
+    color: #1e51dc;
+    position: absolute;
+    z-index: 100;
+    font-weight: 700;
+    font-size: 2em;
+  }
+
+  .customer_order_section {
+      display: flex;
+    justify-content: space-between;
+  }
+
+  .card-2 {
+    box-shadow: 1px 1px 3px 0px rgb(112, 115, 139);
+    margin: 5px;
+}
+
+/* customer Perosnal */
+
+.card-1 {
+    width: 400px;
+    border-radius: 18px;
+    border: none
+}
+
+.card-2 {
+    border-radius: 20px
+}
+
+.card-child {
+    border: 1px solid gray;
+    border-radius: 16px
+}
+
+.circle {
+    background-color: #ebdffb;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    color: #9553ea;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px
+}
+
+.circle-2 {
+    background-color: #fbebdf;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    color: #ea9253;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px
+}
+
+.circle-3 {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px
+}
+
+.personal_details_customer {
+    display: flex;
+}

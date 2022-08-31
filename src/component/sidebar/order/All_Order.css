@@ -1,0 +1,57 @@
+body {
+  font-family: "Proxima", sans-serif;
+}
+  
+  .rdt_Table {
+    margin-bottom: 1rem;
+    font-family: "Proxima" !important;
+    
+    
+  }
+  .rdt_TableRow {
+    background-color: #ffffff !important;
+  }
+  .rdt_TableCol {
+    color: gray !important;
+    font-weight: bolder;
+    font-size: 15px;
+  
+    font-family: 'Proxima' !important;
+  }
+  .rdt_TableCol_Sortable {
+    
+  }
+  .rdt_TableCell {
+    color: gray;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "Proxima", sans-serif !important;
+  }
+  .rdt_TableHeader {
+    background-color: transparent !important;
+  }
+  .rdt_TableFooter {
+    
+    
+  }
+  .rdt_TableHead {
+   
+    
+  }
+  .rdt_TableHeadRow {
+    background-color: #f8f9fb !important;
+    position: static;
+    top: 100px;
+    
+  }
+  .rdt_TableBody {
+   
+   
+  }
+  .rdt_ExpanderRow {
+   
+  }
+
+  
+
+  

@@ -1,0 +1,124 @@
+.all_store_container {
+  
+    margin: 0.7rem 1rem;
+}
+
+.table {
+ 
+    --bs-table-striped-bg: white;
+  
+    width: 100%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    color: #212529;
+    vertical-align: top;
+   
+}
+
+
+tbody {
+    background-color:white !important;
+    color: black;
+  
+   
+}
+
+table.dataTable.table-striped>tbody>tr.odd{ 
+
+      
+        color: black;
+      
+}
+table.dataTable  td {
+    color: black!important;
+    font-weight: normal;
+}
+
+
+
+table.dataTable.table-striped>tbody>tr.even{ 
+    background-color: white!important;
+    color:black !important;
+   
+}
+
+
+.table thead {
+    background-color: #f8f9fb !important;
+    font-family: "Proxima", sans-serif !important;
+  
+} 
+table.dataTable.table-striped>tbody td .chip:hover{ 
+    background-color: teal!important;
+    color:black !important;
+   
+}
+
+
+  
+  
+  .action_icon {
+      margin-left: 2rem;
+  }
+
+  .status_button {
+    font-weight: 700 !important;
+    color: #664e96 !important;
+    border-color: #664e96 !important;
+    background: transparent !important;
+    border-radius: 25px !important;
+    padding: 5px 10px;
+  }
+.status_button:hover {
+    color: white !important;
+    background: #664e96 !important;
+    border-color: #664e96 !important;
+}
+
+.action_button {
+    color: #664e96 !important;
+    border: none;
+    outline: none;
+    border: 1px solid gray;
+    background: transparent !important;
+    border-radius: 100% !important;
+    padding: 1px 5px;
+   
+}
+.action_button:nth-child(1) {
+   
+    
+}
+.action_button:nth-child(2) {
+   
+}
+.action_button:nth-child(2):hover {
+    background-color: #664e96 !important;
+    color: white !important;
+}
+.action_button:nth-child(1):hover {
+    background-color: crimson !important;
+    color: white !important;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+    border-radius: 10px;
+   
+   
+}
+.menu_Navlink {
+    color: rgb(16 28 63);
+    
+    
+    text-decoration: none;
+    font-size: 16px;
+   
+    font-family: "Proxima", sans-serif;
+}
+
+  
+
+.sticky_header {
+    position: sticky;
+    top: 84px;
+    border-style: none;
+}

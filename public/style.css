@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Proxima;
+    src: url('fonts/proximanova_regular.otf');
+    font-weight: 400;
+    
+}
+@font-face {
+    font-family: Proxima;
+    src: url('fonts/proximanova_bold.otf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: Proxima;
+    src: url('fonts/proximanova_black.otf');
+    font-weight: 900;
+}
+*{
+    font-family:'Proxima', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

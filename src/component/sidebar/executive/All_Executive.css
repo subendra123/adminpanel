@@ -1,0 +1,31 @@
+
+.sort_transaction {
+    
+}
+.verified_executive_container {
+  display: flex;
+  justify-content: flex-end;
+ margin-top: 1.3rem;
+margin-left: -1.5rem;
+}
+
+.executive_buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+.executive_buttons button {
+  display: inline-block;
+  padding: 0 25px;
+  border: none;
+  outline: none;
+  height: 50px;
+  font-size: 16px;
+  line-height: 50px;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+  margin-left: 5px;
+}
+.executive_buttons button:hover {
+  background-color:  #664e96;
+  color:white;
+}
